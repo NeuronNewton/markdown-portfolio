@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# List of Activities
+- Open Source
+- Software Development
+- Image Analysis
